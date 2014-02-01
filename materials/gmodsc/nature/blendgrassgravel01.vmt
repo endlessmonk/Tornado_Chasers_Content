@@ -1,0 +1,6 @@
+"worldvertextransition"
+{
+"$basetexture" "gmodsc/nature/gravelfloor001a"
+"$basetexture2" "gmodsc/nature/grassfloor002a"
+"%tooltexture" "gmodsc/nature/gravelfloor001a"
+}

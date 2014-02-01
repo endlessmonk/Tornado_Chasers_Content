@@ -1,0 +1,6 @@
+"worldvertextransition"
+{
+"$basetexture" "stormchase/nature/gravelfloor001a"
+"$basetexture2" "stormchase/nature/grassfloor002a"
+"%tooltexture" "stormchase/nature/gravelfloor001a"
+}

@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "tornadotheater/theater_video2"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "3"
+}
+}
+} 
