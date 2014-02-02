@@ -1,9 +1,5 @@
 #Only need to remove the stupid files.
 #Obviously we arent compiling a program...
-
-#############
-## WindowsBS
-#############
 Thumbs.db
 ehthumbs.dbs
 Desktop.ini
