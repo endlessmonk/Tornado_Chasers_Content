@@ -1,22 +1,8 @@
 "AddonInfo"
 {
-	"name"		"Tornado Series Content Pack"
-	"version"	"v3"
-	"up_date"	"4/15/2013"
+	"name"		"GMSC Tornado Content"
 	"author_name"	"Rhapid Fyre, The Vman, XenonFrame"
-	"author_email"	""
 	"author_url"	"http://www.gmodsc.net"
-	
-	"info" "
-		Come play on our servers: 
-		
-		 [Server IP]          [Map]
-		sc1.gmodsc.net | gm_tornadohighway_final
-		sc2.gmodsc.net | gm_tornado_village_beta2
-		sc3.gmodsc.net | gm_tornadonightfall
-		sc4.gmodsc.net | gm_tornadoalley_final
-		sc5.gmodsc.net | gm_tornadoflatgrass
-	"
 
 	"override"	"1"
 }
